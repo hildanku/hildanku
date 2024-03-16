@@ -26,6 +26,7 @@ Maybe this is just a brief introduction about me, you can contact me (hildankuto
 [![](https://img.shields.io/badge/Database-Firestore-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)](https://firebase.google.com/docs/firestore)
 [![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Cloud-Google%20Cloud%20Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/Ecosystem-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)](https://dotnet.microsoft.com/)
 
 
 ## Some of my Github Stats
