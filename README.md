@@ -1,12 +1,8 @@
-## Hey 👋, This is Hildan K. Utomo
+## Hello 👋
 [![Gmail Badge](https://img.shields.io/badge/-hildankutomo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hildankutomo@gmail.com)](mailto:hildankutomo@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-hildankustoutomo-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hildankustoutomo/)](https://www.linkedin.com/in/hildankustoutomo/) [![Github Badge](https://img.shields.io/badge/-hildanku-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hildanku/)](https://www.github.com/hildanku/) <p align='left'>Just call me Hildan, I am a student majoring in Computer Science at Universitas Putra Bangsa Kemranjen as well as a DevOps, Cloud and Backend Engineering enthusiast. In addition to these fields, I am also a CyberSecurity enthusiast.
+[![Linkedin Badge](https://img.shields.io/badge/-hildankustoutomo-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hildankustoutomo/)](https://www.linkedin.com/in/hildankustoutomo/) [![Github Badge](https://img.shields.io/badge/-hildanku-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hildanku/)](https://www.github.com/hildanku/)
 
-In between learning these techniques, I also sometimes delve into Web, Desktop and Mobile Application Development.
-
-I am currently learning how to develop applications efficiently, how to do CI/CD, how to load test applications, how to manage cloud infrastructure and many more.
-
-Maybe this is just a brief introduction about me, you can search or contact me on the Linkedin & Gmail icons above.
+I am currently studying and deepening the GoLang language.
 
 “The more I read, the more I acquire, the more certain I am that I know nothing.”
 ― Voltaire</p>
