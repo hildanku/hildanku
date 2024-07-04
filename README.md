@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hildankutomo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hildankutomo@gmail.com)](mailto:hildankutomo@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-hildankustoutomo-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hildankustoutomo/)](https://www.linkedin.com/in/hildankustoutomo/) [![Github Badge](https://img.shields.io/badge/-hildanku-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hildanku/)](https://www.github.com/hildanku/)
 
-I am currently studying and deepening the GoLang language.
+I am currently studying and deepening the Go Language.
 
 “The more I read, the more I acquire, the more certain I am that I know nothing.”
 ― Voltaire</p>
