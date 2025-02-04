@@ -25,6 +25,3 @@ I am currently studying and deepening the Go & Typescript Language.
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hildanku alt=hildanku /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hildanku&show_icons=true&include_all_commits=true)](https://github.com/hildanku/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hildanku&layout=compact)](https://github.com/hildanku/github-readme-stats)
